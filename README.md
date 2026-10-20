@@ -32,3 +32,7 @@ Add dashboard screenshots here.
 - Presenting data through dashboards
 
 **Dataset:** Public book-practice website, used for learning and demonstration.
+
+## Dashboard Preview
+
+![Business Data Extraction Dashboard](Screenshot 2026-10-20 195550.png)
