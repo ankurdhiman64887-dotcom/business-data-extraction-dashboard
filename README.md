@@ -35,4 +35,8 @@ Add dashboard screenshots here.
 
 ## Dashboard Preview
 
-![Business Data Extraction Dashboard](Screenshot 2026-10-20 195550.png)
+
+## Dashboard Preview
+
+![Business Data Extraction Dashboard](Screenshot%202026-10-20%20195550.png)
+
